@@ -78,3 +78,4 @@ django-import-export
 django-s3-storage
 jsonfield
 waitress
+sqlparse>=0.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
