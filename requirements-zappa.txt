@@ -21,7 +21,7 @@ cryptography==3.3.2
 cssselect2==0.2.1
 defusedxml
 diff-match-patch==20181111
-Django==1.11.21
+Django==3.2.15
 django-appconf==1.0.2
 django-background-tasks==1.2.0
 django-compat==1.0.15
@@ -71,7 +71,7 @@ openvas-lib
 ordereddict==1.1
 pbr==4.0.3
 pdfrw==0.4
-Pillow==6.0.0
+Pillow==9.0.1
 placebo==0.9.0
 psycopg2-binary==2.7.5
 pyasn1==0.4.5
@@ -107,7 +107,7 @@ tqdm==4.19.1
 troposphere==2.4.9
 Unidecode==1.1.1
 uritemplate==3.0.0
-urllib3==1.25.3
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.15.4
 whitenoise==3.3.0
