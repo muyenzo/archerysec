@@ -21,7 +21,7 @@ cryptography==3.3.2
 cssselect2==0.2.1
 defusedxml
 diff-match-patch==20181111
-Django==1.11.21
+Django==3.2.15
 django-appconf==1.0.2
 django-background-tasks==1.2.0
 django-compat==1.0.15
@@ -54,7 +54,7 @@ ipaddress==1.0.18
 isort==4.3.17
 itypes==1.1.0
 jdcal==1.4.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 jira==2.0.0
 jmespath==0.9.3
 jsonfield==2.0.2
@@ -88,7 +88,7 @@ python-slugify==1.2.4
 python-taint==0.40
 python-whois==0.6.2
 pytz==2017.3
-PyYAML==5.1
+PyYAML==5.4
 reportlab==3.4.0
 requests==2.20.0
 requests-oauthlib==0.8.0
@@ -107,7 +107,7 @@ tqdm==4.19.1
 troposphere==2.4.9
 Unidecode==1.1.1
 uritemplate==3.0.0
-urllib3==1.25.3
+urllib3==1.26.5
 webencodings==0.5.1
 Werkzeug==0.15.4
 whitenoise==3.3.0
