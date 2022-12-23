@@ -79,3 +79,4 @@ django-import-export
 django-s3-storage
 jsonfield
 waitress
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
