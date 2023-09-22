@@ -17,7 +17,7 @@ configparser==3.5.0
 coreapi==2.3.3
 coreapi-cli==1.0.9
 coreschema==0.0.4
-cryptography==3.3.2
+cryptography==41.0.4
 cssselect2==0.2.1
 defusedxml
 diff-match-patch==20181111
@@ -89,7 +89,7 @@ python-taint==0.40
 python-whois==0.6.2
 pytz==2017.3
 PyYAML==5.1
-reportlab==3.4.0
+reportlab==3.5.31
 requests==2.20.0
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
