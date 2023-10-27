@@ -17,7 +17,7 @@ configparser==3.5.0
 coreapi==2.3.3
 coreapi-cli==1.0.9
 coreschema==0.0.4
-cryptography==3.3.2
+cryptography==41.0.5
 cssselect2==0.2.1
 defusedxml
 diff-match-patch==20181111
@@ -109,7 +109,7 @@ Unidecode==1.1.1
 uritemplate==3.0.0
 urllib3==1.25.3
 webencodings==0.5.1
-Werkzeug==0.15.4
+Werkzeug==3.0.1
 whitenoise==3.3.0
 wrapt==1.10.11
 wsgi-request-logger==0.4.6
