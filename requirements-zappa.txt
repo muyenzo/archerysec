@@ -71,7 +71,7 @@ openvas-lib
 ordereddict==1.1
 pbr==4.0.3
 pdfrw==0.4
-Pillow==6.0.0
+Pillow==10.2.0
 placebo==0.9.0
 psycopg2-binary==2.7.5
 pyasn1==0.4.5
