@@ -71,14 +71,14 @@ openvas-lib
 ordereddict==1.1
 pbr==4.0.3
 pdfrw==0.4
-Pillow==6.0.0
+Pillow==10.3.0
 placebo==0.9.0
 psycopg2-binary==2.7.5
 pyasn1==0.4.5
 PyBurprestapi==0.4
 pycparser==2.18
 PyJWT==1.6.1
-pylint==1.9.3
+pylint==2.6.1
 PyPDF2==1.26.0
 Pyphen==0.9.4
 python-dateutil==2.6.1
