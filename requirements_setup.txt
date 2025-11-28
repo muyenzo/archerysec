@@ -79,3 +79,4 @@ django-import-export
 django-s3-storage
 jsonfield
 waitress
+pypdf>=6.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
