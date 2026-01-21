@@ -74,7 +74,7 @@ pdfrw==0.4
 Pillow==6.0.0
 placebo==0.9.0
 psycopg2-binary==2.7.5
-pyasn1==0.4.5
+pyasn1==0.6.2
 PyBurprestapi==0.4
 pycparser==2.18
 PyJWT==1.6.1
